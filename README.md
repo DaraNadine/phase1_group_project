@@ -3,7 +3,7 @@ Authors: Peter Vuong, Dara Estrada
 
 ## **Navigation**
 
-**P1Presentation.pdf** is a slideshow presentation
+**presentation.pdf** is a slideshow presentation
 
 **student.ipynb** a Jupyter notebook containing all analysis and visualizations for this project.
 
@@ -14,7 +14,7 @@ Authors: Peter Vuong, Dara Estrada
 
 **Images** contains images used in this README.md
 
-**Code** Jupyter notebook of cleaned data 
+**Notebook** is a Jupyter notebook of cleaned data 
 
 
 ## **Overview**
