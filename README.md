@@ -14,7 +14,7 @@ Authors: Peter Vuong, Dara Estrada
 
 **Images** contains images used in this README.md
 
-**Code** Jupyter notebook of cleaned data 
+**Notebook** Jupyter notebook of cleaned data 
 
 
 ## **Overview**
