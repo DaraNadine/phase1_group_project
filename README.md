@@ -3,7 +3,7 @@ Authors: Peter Vuong, Dara Estrada
 
 ## **Navigation**
 
-**P1Presentation.pdf** is a slideshow presentation
+**presentation.pdf** is a slideshow presentation
 
 **student.ipynb** a Jupyter notebook containing all analysis and visualizations for this project.
 
