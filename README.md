@@ -45,14 +45,15 @@ The datasets that were provided contained outliers that skewed data. This lead t
 
 Visualizations presented in the slides and notebook
 
-Median Worldwide Gross Earnings in Millions
+**Median Worldwide Gross Earnings in Millions**
 
 
-Top Movie Genres by Median Worldwide Gross in Millions
+**Top Movie Genres by Median Worldwide Gross in Millions**
 
+<img width="1440" alt="Median_world_gross_months" src="https://user-images.githubusercontent.com/53787104/151819672-641b9cea-2bc1-4c45-ac1a-b86382249583.png">
 
-Best season of the year for a release (Median Worldwide Gross)
-
+**Best season of the year for a release (Median Worldwide Gross)**
+<img width="1440" alt="Seasons" src="https://user-images.githubusercontent.com/53787104/151819659-236c39eb-b883-4d1c-b846-4b9cfe9e9b02.png">
 
 ## **Conclusion**
 What would we recommend the client do as a result of this work?
